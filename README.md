@@ -7,7 +7,9 @@ This project is intended to be used as a scaffolding to perform both Continuous 
 
 # Project Details
 Task Tracking: A link to a Trello board for the project
+
 Quarterly Project Plan: [Plan](./project%20info/Project%20Plan_%20Building%20CI-CD%20Pipeline.xlsx) which includes quarterly and yearly goal with weekly task estimation
+
 Demo: link to the screencast on YouTube
   
 # Prerequisites
