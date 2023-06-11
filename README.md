@@ -19,7 +19,7 @@ Demo: link to the screencast on YouTube
   
 # Architectural Diagram
 
-[Project Architecture](./project%20info/Project%20architecture.png)
+![Project Architecture](./project%20info/Project%20architecture.png)
   
 # Instructions
 Screenshots demonstrating key steps
