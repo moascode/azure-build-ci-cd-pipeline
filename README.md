@@ -18,6 +18,8 @@ Demo: link to the screencast on YouTube
 - A [Github Account](https://github.com)
   
 # Architectural Diagram
+
+[Project Architecture](./project%20info/Project%20architecture.png)
   
 # Instructions
 Screenshots demonstrating key steps
