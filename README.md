@@ -13,6 +13,9 @@ This project is intended to be used as a scaffolding to perform both Continuous 
 Demo: link to the screencast on YouTube
   
 # Prerequisites
+
+- An [Azure Account](https://portal.azure.com) 
+- A [Github Account](https://github.com)
   
 # Architectural Diagram
   
