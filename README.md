@@ -31,6 +31,7 @@ Screenshots demonstrating key steps
   2.1 Clone and build an application inside of Azure Cloud Shell.
       Screenshot showing the project cloned into Azure Cloud Shell.
       Screenshot showing the passing tests that are displayed after running the make all command from the Makefile
+      ![Test Passed](./project%20info/make_all_pass_test.png)
   
   2.2 Conduct a test run on an application in Azure Cloud Shell.
       Screenshot showing the output of a test run.
