@@ -30,6 +30,7 @@ Screenshots demonstrating key steps
   
   2.1 Clone and build an application inside of Azure Cloud Shell.
       Screenshot showing the project cloned into Azure Cloud Shell.
+
       Screenshot showing the passing tests that are displayed after running the make all command from the Makefile
       ![Test Passed](./project%20info/make_all_pass_test.png)
   
@@ -44,6 +45,7 @@ Screenshots demonstrating key steps
       
   3.2 Deploy an application using Azure Pipelines into Azure App Services.
       Screenshot of Azure Azure App Service
+      
       Screenshot of a successful prediction in Azure Cloud Shell
   
   3.3 Test an application inside of Azure Pipelines
