@@ -6,9 +6,9 @@ GitHub actions badge
 This project is intended to be used as a scaffolding to perform both Continuous Integration and Continuous Delivery by using Github actions and Azure pipeline.
 
 # Project Details
-Task Tracking: A link to a Trello board for the project
-
 Quarterly Project Plan: [Plan](./project%20info/Project%20Plan_%20Building%20CI-CD%20Pipeline.xlsx) which includes quarterly and yearly goal with weekly task estimation
+
+Task Tracking: [Trello board](https://trello.com/b/RV1s9H7y/building-a-ci-cd-pipeline) which shows project progress
 
 Demo: link to the screencast on YouTube
   
