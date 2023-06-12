@@ -27,11 +27,19 @@ Screenshots demonstrating key steps
 ## 1. Setup development environment
 
 1.1 Clone and build the application inside of Azure Cloud Shell
-- Screenshot showing the project cloned into Azure Cloud Shell.
+- Generate SSH key `ssh-keygen -t rsa` in cloud shell and add it to Github Repository
+- Clone Github Repository
+![Replo](./project%20info/clone_repo.png)
+- Create and activate virtual environemnt
+
+  ```
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
 
 1.2 Run local test
-- Screenshot showing the passing tests that are displayed after running the make all command from the Makefile
-      ![Test Passed](./project%20info/make_all_pass_test.png)
+- Run make all command in azure shell
+![Test Passed](./project%20info/make_all_pass_test.png)
   
 ## 2. Configure Continious Integration on Github
 
