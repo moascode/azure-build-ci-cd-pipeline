@@ -52,6 +52,17 @@ Screenshots demonstrating key steps
   
 ## 3. Configure Continious Delivery on Azure
 
+#### 3.1 Create azure webapp in azure cloud shell
+- Command to create webapp
+
+  ```az webapp up -n helloflaskmoascode -g azuredevops -l southeastasia --sku F1```
+- Verify webapp in azure ui
+
+  ![Webapp Running](./project%20info/web_app_running.png)
+
+#### 3.2 Deploy the application using Azure Pipelines into Azure App Services
+
+
 #### 3.1 Load test an application using Locust.
 
 - Screenshot of the application running against a load test with locust.
