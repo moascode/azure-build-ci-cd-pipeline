@@ -26,41 +26,43 @@ Screenshots demonstrating key steps
   
 ## 1. Setup development environment
 
-1.1 Clone and build the application inside of Azure Cloud Shell
+#### 1.1 Clone and build the application inside of Azure Cloud Shell
 - Generate SSH key `ssh-keygen -t rsa` in cloud shell and add it to Github Repository
 - Clone Github Repository
-![Replo](./project%20info/clone_repo.png)
+
+  ![Repo Clone](./project%20info/clone_repo.png)
 - Create and activate virtual environemnt
 
   ```
   python3 -m venv venv
   source venv/bin/activate
   ```
-
-1.2 Run local test
+  
+#### 1.2 Run local test
 - Run make all command in azure shell
-![Test Passed](./project%20info/make_all_pass_test.png)
+
+  ![Test Passed](./project%20info/make_all_pass_test.png)
   
 ## 2. Configure Continious Integration on Github
 
-2.1 Conduct a remote test run of the application using GitHub Actions
+#### 2.1 Run remote test on Github SaaS server
+- pythonapp.yml contains GitHub Actions which will be triggered by any change in the repo
 
-- Screenshot of passing GitHub Actions build
-  
+  ![Github Build](./project%20info/github_actions_build.png)
   
 ## 3. Configure Continious Delivery on Azure
 
-3.1 Load test an application using Locust.
+#### 3.1 Load test an application using Locust.
 
 - Screenshot of the application running against a load test with locust.
       
-3.2 Deploy an application using Azure Pipelines into Azure App Services.
+#### 3.2 Deploy an application using Azure Pipelines into Azure App Services.
 
 - Screenshot of Azure Azure App Service
 
 - Screenshot of a successful prediction in Azure Cloud Shell
   
-3.3 Test an application inside of Azure Pipelines
+#### 3.3 Test an application inside of Azure Pipelines
 
       Screenshot of a successful run of the project in Azure Pipelines.
   
