@@ -24,20 +24,20 @@ Demo: link to the screencast on YouTube
 # Instructions
 Screenshots demonstrating key steps
   
-## 1. Setup environment
-  
-## 2. Configure Coninious Integration on Github
-  
-2.1 Clone and build an application inside of Azure Cloud Shell.
+## 1. Setup development environment
 
+1.1 Clone and build the application inside of Azure Cloud Shell
 - Screenshot showing the project cloned into Azure Cloud Shell.
 
+1.2 Run local test
 - Screenshot showing the passing tests that are displayed after running the make all command from the Makefile
       ![Test Passed](./project%20info/make_all_pass_test.png)
   
-2.2 Conduct a test run on an application in Azure Cloud Shell.
+## 2. Configure Continious Integration on Github
 
-- Screenshot showing the output of a test run.
+2.1 Conduct a remote test run of the application using GitHub Actions
+
+- Screenshot of passing GitHub Actions build
   
   
 ## 3. Configure Continious Delivery on Azure
