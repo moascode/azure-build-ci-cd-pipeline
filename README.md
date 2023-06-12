@@ -61,21 +61,25 @@ Screenshots demonstrating key steps
   ![Webapp Running](./project%20info/web_app_running.png)
 
 #### 3.2 Deploy the application using Azure Pipelines into Azure App Services
+- Build and deployment stages in Azure pipeline
 
+  ![Webapp Running](./project%20info/successful_build_deploy.png)
+
+- Verify Webapp deployment config
+
+  ![Webapp Running](./project%20info/webapp_deployment.png)
+
+- Verify with web url
+
+  ![Web url](./project%20info/successful_web_home.png)
+
+- Verify with a successful prediction in Azure Cloud Shell
+
+  ![Prediction](./project%20info/successful_prediction.png)
 
 #### 3.1 Load test an application using Locust.
 
 - Screenshot of the application running against a load test with locust.
-      
-#### 3.2 Deploy an application using Azure Pipelines into Azure App Services.
-
-- Screenshot of Azure Azure App Service
-
-- Screenshot of a successful prediction in Azure Cloud Shell
-  
-#### 3.3 Test an application inside of Azure Pipelines
-
-      Screenshot of a successful run of the project in Azure Pipelines.
   
 # Enhancements
   
