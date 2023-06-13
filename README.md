@@ -77,6 +77,14 @@ Screenshots demonstrating key steps
 
   ![Prediction](./project%20info/successful_prediction.png)
 
+- Verify with logs in the cloud shell using ```az webapp log tail```
+
+  ![Log CLI](./project%20info/webapp_log_cli.png)
+
+- Verify with logs in the portal
+
+  ![Log Portal](./project%20info/webapp_log_portal.png)
+
 #### 3.1 Load test an application using Locust.
 
 - Screenshot of the application running against a load test with locust.
