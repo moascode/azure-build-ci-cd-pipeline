@@ -6,11 +6,11 @@
 This project is intended to be used as a scaffolding to perform both Continuous Integration and Continuous Delivery by using Github actions and Azure pipeline.
 
 # Project Details
-[Quarterly Project Plan](./project%20info/Project%20Plan_%20Building%20CI-CD%20Pipeline.xlsx): quarterly and yearly goal with weekly task estimation
+[Quarterly Project Plan](https://docs.google.com/spreadsheets/d/1irH9uIJ71uVt7GBT57sQuao6zNurmE3f/edit?usp=sharing&ouid=115183504654269458415&rtpof=true&sd=true): quarterly and yearly goal with weekly task estimation
 
 [Task Tracking](https://trello.com/b/RV1s9H7y/building-a-ci-cd-pipeline): trello board which shows project progress
 
-[Demo](https://www.youtube.com/watch?v=I7CYyXbKkyY): project demo which explains how to build CI/CD pipeline using Github actions and Azure pipeline
+[Demo](https://www.youtube.com/watch?v=coyySyqa__M): project demo which explains how to build CI/CD pipeline using Github actions and Azure pipeline
   
 # Prerequisites
 
