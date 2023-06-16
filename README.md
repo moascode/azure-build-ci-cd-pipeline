@@ -22,7 +22,6 @@ Demo: link to the screencast on YouTube
 ![Project Architecture](./project%20info/Project%20architecture.png)
   
 # Instructions
-Screenshots demonstrating key steps
   
 ## 1. Setup development environment
 
