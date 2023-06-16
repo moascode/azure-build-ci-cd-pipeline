@@ -10,7 +10,7 @@ This project is intended to be used as a scaffolding to perform both Continuous 
 
 [Task Tracking](https://trello.com/b/RV1s9H7y/building-a-ci-cd-pipeline): trello board which shows project progress
 
-Demo: link to the screencast on YouTube
+[Demo](https://www.youtube.com/watch?v=I7CYyXbKkyY): project demo which explains how to build CI/CD pipeline using Github actions and Azure pipeline
   
 # Prerequisites
 
