@@ -85,11 +85,20 @@ Screenshots demonstrating key steps
 
   ![Log Portal](./project%20info/webapp_log_portal.png)
 
-#### 3.1 Load test an application using Locust.
+#### 3.1 Load test an application using Locust
 
-- Screenshot of the application running against a load test with locust.
+- Test from azure cli
+
+  ![Locust CLI](./project%20info/locus_test_cli.png)
+
+- Test from web
+
+  ![Locust web](./project%20info/locus_test_web.png)
   
 # Enhancements
+
+- Automate all manual process
+- Setup pipelines for multiple environments (dev, test, staging)
   
 
 
