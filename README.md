@@ -1,4 +1,4 @@
-GitHub actions badge
+[![Python application test with Github Actions](https://github.com/moascode/azure-build-ci-cd-pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/moascode/azure-build-ci-cd-pipeline/actions/workflows/pythonapp.yml)
   
 # Azure DevOps: Building a CI/CD Pipeline
 
