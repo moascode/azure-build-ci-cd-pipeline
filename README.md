@@ -27,7 +27,7 @@ Screenshots demonstrating key steps
 ## 1. Setup development environment
 
 #### 1.1 Clone and build the application inside of Azure Cloud Shell
-- Generate SSH key `ssh-keygen -t rsa` in cloud shell and add it to Github Repository
+- Generate SSH key ```ssh-keygen -t rsa``` in cloud shell and add it to Github Repository
 - Clone Github Repository
 
   ![Repo Clone](./project%20info/clone_repo.png)
@@ -87,7 +87,9 @@ Screenshots demonstrating key steps
 
 #### 3.1 Load test an application using Locust
 
-- Test from azure cli
+- Test from azure cli 
+
+```locust -f locustfile.py --host https://helloflaskmoascode.azurewebsites.net/  --headless -u 20 -r 5 -t 20s```
 
   ![Locust CLI](./project%20info/locus_test_cli.png)
 
